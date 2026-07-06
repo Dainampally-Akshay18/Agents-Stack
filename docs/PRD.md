@@ -592,13 +592,13 @@ public/
 ```
 app/
 
-api/
+api/ (in this folder every chatbot api has a seperate api file)
 
 auth/
 
-chat/
+chat/(in this folder every chatbot api has a seperate api file)
 
-chatbot/
+chatbot/(in this folder every chatbot api has a seperate api file)
 
 memory/
 
